@@ -2,7 +2,7 @@
   <div>
   
     <div class="profile-header bg-purple-600 text-white text-center py-8">
-      <img src="./assets/image.png"" alt="Profile Image" class="profile-image w-36 h-36 rounded-full border-4 border-white mx-auto mb-4 hover:scale-110 transition-transform duration-300">
+      <img src="./assets/image.png" alt="Profile Image" class="profile-image w-36 h-36 rounded-full border-4 border-white mx-auto mb-4 hover:scale-110 transition-transform duration-300">
       <h2 class="text-2xl font-bold">Azam Akbar Fadillah</h2>
       <p class="text-lg">Web Developer | Designer | Content Creator | Musisi</p>
       <div class="profile-buttons mt-4 flex justify-center space-x-2">
